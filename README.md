@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=clarkmitchell&show_icons=true&locale=en&theme=synthwave&count_private=true&show_icons=true" alt="clarkmitchell" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarkmitchell&show_icons=true&locale=en&theme=synthwave" alt="clarkmitchell" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarkmitchell&show_icons=true&locale=en&theme=synthwav&hide=python,vue" alt="clarkmitchell" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=clarkmitchell&label=Profile%20views&color=0e75b6&style=flat" alt="clarkmitchell" /> </p>
 
