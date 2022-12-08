@@ -1,6 +1,6 @@
-<p align="center"><img src="banner.jpeg" alt="Clark Mitchell Front-End Software Engineer" /></p>
+<p align="center"><img src="banner.jpeg" alt="Clark Gunn Front-End Software Engineer" /></p>
 
-<h1 align="center">Hi 👋, I'm Clark Mitchell</h1>
+<h1 align="center">Hi 👋, I'm Clark Gunn</h1>
 <h3 align="center">A frontend developer focusing on accessibility, performance, and SEO.</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=clarkmitchell&show_icons=true&locale=en&theme=synthwave&count_private=true&show_icons=true" alt="clarkmitchell" /></p>
